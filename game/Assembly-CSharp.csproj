@@ -50,8 +50,14 @@
      <Compile Include="Assets\Character Classes\BaseMageClass.cs" />
      <Compile Include="Assets\Character Classes\BaseWarriorClass.cs" />
      <Compile Include="Assets\TestGUI.cs" />
+     <Compile Include="Assets\TestTownTest1.cs" />
      <Compile Include="Assets\scripts\BasePlayer\BasePlayer.cs" />
      <Compile Include="Assets\scripts\CreatePlayer\CreateCharacter.cs" />
+     <Compile Include="Assets\scripts\GameInformation\GameInformation.cs" />
+     <Compile Include="Assets\scripts\PlayerMovement\PlayerMovement.cs" />
+     <Compile Include="Assets\scripts\SaveAndLoad\LoadInformation.cs" />
+     <Compile Include="Assets\scripts\SaveAndLoad\PPSerialization.cs" />
+     <Compile Include="Assets\scripts\SaveAndLoad\SaveInformation.cs" />
      <Compile Include="Assets\scripts\TurnBasedCombat\TurnBasedCombatStateMachine.cs" />
      <Compile Include="Assets\scripts\items\BaseEquipment.cs" />
      <Compile Include="Assets\scripts\items\BaseItem.cs" />
