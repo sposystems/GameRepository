@@ -9,10 +9,13 @@ public class BasePlayer {
 	private int endurance;
 	private int intellect;
 	private int strength;
+	private int currentXP;
+	private int requiredXP;
 
 
 	public string PlayerName{ get; set; } //shorthand
-
+	public int CurrentXP{ get; set; }
+	public int RequiredXP{ get; set; }
 	public int PlayerLevel{
 		get{return playerLevel;}
 		set{playerLevel=value;}

@@ -1,9 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerMovement\PlayerMovement.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LevelUp.cs">
     <Files>
-      <File FileName="Assets\scripts\SaveAndLoad\SaveInformation.cs" Line="14" Column="6" />
-      <File FileName="Assets\scripts\PlayerMovement\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\IncreaseExperience.cs" Line="21" Column="32" />
+      <File FileName="Assets\scripts\TurnBasedCombat\TurnBasedCombatStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BasePlayer\BasePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameInformation\GameInformation.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\LevelUp.cs" Line="16" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

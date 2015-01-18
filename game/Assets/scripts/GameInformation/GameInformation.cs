@@ -16,5 +16,7 @@ public class GameInformation : MonoBehaviour {
 	public static int Endurance{ get; set; }
 	public static int Intellect{ get; set; }
 	public static int Strength{ get; set; }
+	public static int CurrentXP{ get; set; }
+	public static int RequiredXP{ get; set; }
 
 }
